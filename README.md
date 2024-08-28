@@ -1,3 +1,3 @@
 # GamePublish
 A template repository to publish games
-[Goog][https/:www.google.com]
+[CoinGame][https/:www.google.com]
