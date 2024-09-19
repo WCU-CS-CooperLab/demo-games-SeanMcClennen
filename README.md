@@ -6,3 +6,4 @@ A template repository to publish games
 - [CoinGame](CoinGameNew)
 - [SpaceRocks](SR_Main0911)
 - [SpaceRocks-9-16](SR_9_16)
+- [Project 1 Phase 1](Finished-CoinGame)
