@@ -7,4 +7,4 @@ A template repository to publish games
 - [SpaceRocks](SR_Main0911)
 - [SpaceRocks-9-16](SR_9_16)
 - [Project 1 Phase 1](Finished-CoinGame)
-- [Project 1 Phase 2](phase_2_complete)
+- [Project 1 Phase 2](phase2complete)
